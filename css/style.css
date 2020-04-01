@@ -1,0 +1,176 @@
+/* Rascunho de cores */
+#rascunho {
+  color: #222831;
+  color: #393e46;
+  color: #00adb5;
+  color: #eeeeee;
+}
+
+body {
+  height: 100%;
+  text-align: center;
+  background-color: #eeeeee;
+  font-family: "Merriweather", serif;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Sacramento", cursive;
+  color: #4e94b4;
+}
+
+h2{
+  margin-bottom: 40px;
+  color: #3473d8 ;
+}
+h3{
+  color: #00adb5;
+}
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.top-container {
+  position: relative;
+}
+
+.top-cloud-img,
+.bottom-cloud-img {
+  height: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.txtTop{
+  color: #4e94b4;
+}
+
+.top-cloud-img {
+  margin: -320px 0px 0px 200px;
+}
+
+.bottom-cloud-img {
+  margin: -280px 0px 0px -350px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.p-test {
+  position: relative;
+  display: block;
+  background-color: red;
+  width: 200px;
+}
+
+.span-test {
+  position: relative;
+  display: block;
+  background-color: blue;
+  width: 200px;
+  left: 30px;
+  bottom: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.programmer{ 
+  width: 25%;   
+  margin-top: 50px;
+} 
+
+.code-img,
+.html-img {
+      width: 25%;
+}  
+.code-img {
+     float: left;  
+     margin-right: 30px; 
+} 
+.html-img {
+   float: right;
+   margin-left: 30px;
+} 
+
+.profile{
+  width: 50%;
+  margin: auto;
+}
+.txtBody {
+  margin-bottom: 100px; 
+
+}
+.txtContac{
+  margin-bottom: 50px;
+}
+.contact-me {
+  margin-top: 50px;
+  width: 50%;
+  margin: auto;
+}
+.txtc{
+  width: 50%;
+  margin-left: 340px;
+  margin-bottom: 50px;
+  text-align: justify;
+  line-height: 2;
+}
+
+.contactTxt{
+  margin-top: 50px;
+}
+
+
+.btn{
+  border-style: solid;
+  border-radius: 40px;
+  padding: 10px;
+  margin-bottom: 40px;
+  color: white;
+  text-decoration: none;
+  background-color: #518087;
+  border-color: #518087;
+}
+
+.btn:hover{
+  background: #393e46;
+  background-color: #222831;
+}
+
+.bottom-container {
+  margin-top: 100px;
+  height: 100px;
+  text-align: center;
+  padding-top: 50px;
+  background-color: #41a6ac;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #393e46;
+  letter-spacing: 1px;
+  padding: 25px;
+  
+}
+.footer-link:hover{
+  color: white;
+}
+
+.txtFooter{
+  margin-top: 50px ;
+}
+
+.txtFooter{
+  color:#393e46 ;
+}
+
